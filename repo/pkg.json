@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "adyFetch",
+      "description": "A NeoFetch-inspired fetching tool for adyOS.",
+      "version": "1.0.0",
+      "folder": "af",
+      "requirements": []
+    }
+  ]
+}
